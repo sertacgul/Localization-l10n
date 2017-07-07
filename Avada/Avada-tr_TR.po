@@ -8,6 +8,7 @@
 # _KP_
 # Mehmet Çakoğlu
 # Demerux
+# SertacGul
 msgid ""
 msgstr ""
 "Project-Id-Version: Avada\n"
@@ -13494,7 +13495,7 @@ msgstr ""
 # @ Avada
 #: templates/elasticslider.php:32
 msgid "Loading..."
-msgstr ""
+msgstr "Yükleniyor"
 
 #: templates/logo.php:63 templates/logo.php:65
 msgid "Retina Logo"
@@ -13526,18 +13527,18 @@ msgstr ""
 
 #: templates/wc-after-single-product-summary.php:31
 msgid "Share On Facebook"
-msgstr ""
+msgstr "Facebook'ta Paylaş"
 
 #: templates/wc-after-single-product-summary.php:40
 msgid "Tweet This Product"
-msgstr ""
+msgstr "Twitter'da Paylaş"
 
 #: templates/wc-after-single-product-summary.php:50
 msgid "Pin This Product"
 msgstr ""
 
 #: templates/wc-after-single-product-summary.php:59
-msgid "Mail This Product"
+msgid "Bu Ürünü Malle Gönder"
 msgstr ""
 
 # @ Avada
