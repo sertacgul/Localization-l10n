@@ -145,7 +145,7 @@ msgstr ""
 
 #: comments.php:72
 msgid "Comment"
-msgstr ""
+msgstr "Yorum Yap"
 
 # @ Avada
 #: comments.php:72
@@ -268,7 +268,7 @@ msgstr ""
 
 #: header.php:56
 msgid "Skip to content"
-msgstr ""
+msgstr "İçeriğe geç"
 
 #. translators: %1$s: "System Status" link. %2$s: "View more info here" link.
 #: includes/admin-screens/demos.php:34
@@ -304,7 +304,7 @@ msgstr ""
 
 #: includes/admin-screens/demos.php:66
 msgid "Posts"
-msgstr ""
+msgstr "Mesajlar"
 
 # @ Avada
 #: includes/admin-screens/demos.php:72 includes/options/sidebars.php:119
@@ -326,15 +326,15 @@ msgstr "Ürünler"
 
 #: includes/admin-screens/demos.php:96
 msgid "Events"
-msgstr ""
+msgstr "Olaylar"
 
 #: includes/admin-screens/demos.php:102
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 #: includes/admin-screens/demos.php:108
 msgid "Images"
-msgstr ""
+msgstr "Resimler"
 
 # @ Avada
 #: includes/admin-screens/demos.php:113 includes/metaboxes/metaboxes.php:277
@@ -363,7 +363,7 @@ msgstr ""
 
 #: includes/admin-screens/demos.php:203 includes/class-avada-admin.php:1317
 msgid "Modify"
-msgstr ""
+msgstr "Değiştir"
 
 #: includes/admin-screens/demos.php:206 includes/class-avada-admin.php:1318
 msgid "Full Import"
