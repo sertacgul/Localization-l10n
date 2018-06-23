@@ -264,11 +264,11 @@ msgstr ""
 
 #: functions.php:605
 msgid "follow this link"
-msgstr ""
+msgstr "bu bağlantıyı takip et"
 
 #: header.php:56
 msgid "Skip to content"
-msgstr ""
+msgstr "İçeriğe geç"
 
 #. translators: %1$s: "System Status" link. %2$s: "View more info here" link.
 #: includes/admin-screens/demos.php:34
@@ -296,15 +296,15 @@ msgstr ""
 
 #: includes/admin-screens/demos.php:34
 msgid "View more info here"
-msgstr ""
+msgstr "Daha fazla bilgi görüntüle"
 
 #: includes/admin-screens/demos.php:42
 msgid "All Demos"
-msgstr ""
+msgstr "Tüm Demolar"
 
 #: includes/admin-screens/demos.php:66
 msgid "Posts"
-msgstr ""
+msgstr "Mesajlar"
 
 # @ Avada
 #: includes/admin-screens/demos.php:72 includes/options/sidebars.php:119
@@ -326,11 +326,11 @@ msgstr "Ürünler"
 
 #: includes/admin-screens/demos.php:96
 msgid "Events"
-msgstr ""
+msgstr "Olaylar"
 
 #: includes/admin-screens/demos.php:102
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 #: includes/admin-screens/demos.php:108
 msgid "Images"
